@@ -47,3 +47,13 @@ This safe guarding app is proposed under the context that last year, several rob
 #### Component
 
 ![](pic/component.jpg)
+
+ ### <font color="#3498db">Usage</font>
+
+Install pods
+
+```bash
+$ pod install
+$ pod update
+```
+
